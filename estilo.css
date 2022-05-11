@@ -66,10 +66,12 @@ body{
 	justify-content: center;
 	align-items: center;
 }
+
 .min-tic{
-	background-color: #f9b;
-	border-color: #f9b;
+	background-color: #fae;
+	border-color: #fae;
 }
+
 .hora{
 	width: 30%;
 	
